@@ -1,6 +1,8 @@
 # fusebox-aurelia-plugin
 A FuseBox plugin for bundling Aurelia applications.
 
+[Demo here](https://github.com/arabsight/aurelia-fusebox-demo)
+
 ```bash
 npm i fusebox-aurelia-plugin fuse-box@next
 ```
