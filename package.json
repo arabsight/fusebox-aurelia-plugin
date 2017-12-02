@@ -1,29 +1,29 @@
 {
-  "name": "fusebox-aurelia-plugin",
-  "version": "0.1.0",
-  "description": "A FuseBox plugin for bundling Aurelia applications.",
-  "main": "lib/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/arabsight/fusebox-aurelia-plugin.git"
-  },
-  "keywords": [
-    "fuse-box",
-    "aurelia",
-    "bundling",
-    "plugin"
-  ],
-  "author": "Rabah Ghodbane <r-ghodbane@live.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/arabsight/fusebox-aurelia-plugin/issues"
-  },
-  "homepage": "https://github.com/arabsight/fusebox-aurelia-plugin#readme",
-  "dependencies": {
-    "babel-core": "^6.26.0",
-    "fastparse": "^1.1.1"
-  }
+    "name": "fusebox-aurelia-plugin",
+    "version": "0.1.1",
+    "description": "A FuseBox plugin for bundling Aurelia applications.",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/arabsight/fusebox-aurelia-plugin.git"
+    },
+    "keywords": [
+        "fuse-box",
+        "aurelia",
+        "bundling",
+        "plugin"
+    ],
+    "author": "Rabah Ghodbane <r-ghodbane@live.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/arabsight/fusebox-aurelia-plugin/issues"
+    },
+    "homepage": "https://github.com/arabsight/fusebox-aurelia-plugin#readme",
+    "dependencies": {
+        "babel-core": "^6.26.0",
+        "fastparse": "^1.1.1"
+    }
 }
